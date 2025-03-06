@@ -4,8 +4,11 @@ Thanks to bezkoder for nice tutorial: https://github.com/bezkoder/node-js-jwt-au
 
 
 <h1>Project setup:</h1>
+'''
 <b>npm install</b>
-
+'''
 
 <h1>Run:</h1>
+'''
 <b>node server.js</b>
+'''
